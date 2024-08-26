@@ -1,0 +1,4 @@
+langchain
+chromadb
+pdfplumber
+python-dotenv 
